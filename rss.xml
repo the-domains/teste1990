@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Teste1990]]></title>
         <description><![CDATA[Teste1990]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teste1990/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 20:10:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 20:10:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teste1990/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Creative Work On Behance]]></title>
+            <description><![CDATA[<article><h1>Top Creative Work On Behance</h1><p>Showcase and discover creative work on the world's leading online platform for creative industries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b81a8d2c67a706306fc648bb81fcbfe50d03279d.jpg"></article>]]></description>
+            <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjzmtuH5srKAhVDHR4KHQBvD0cQFgg6MAc&amp;url=https%3A%2F%2Fwww.behance.net%2Fsearch%3Fcontent%3Dprojects%26user_tags%3D1118549&amp;usg=AFQjCNFH-QTXVjih-O7dU-CLs07HrhoPEg&amp;sig2=whXazLXs7gdo0PuDgD0CoA&amp;bvm=bv.112766941,d.dmo</link>
+            <guid isPermaLink="false">97fce42d-1d52-42bf-addc-e749ec41b0a5</guid>
+            <pubDate>Wed, 27 Jan 2016 20:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside David Bowie's Final Years]]></title>
             <description><![CDATA[<article><h1>Inside David Bowie's Final Years</h1><p>When the pain hit, David Bowie was singing a song called "Reality." It was just another concert on a tour that had stretched on a little too long, bringing him to a stiflingly hot arena stage in Prague, on a late-June evening in 2004.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa37dc2f5234b664a046c420626172374476058.jpg"></article>]]></description>
