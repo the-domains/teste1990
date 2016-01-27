@@ -1,0 +1,28 @@
+name: Teste1990
+favicon: null
+layout_spectrum: 0.07441699551418424
+typography_spectrum: 0.5631235099863261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7362029114738107
+  lightness: 0.5714127672836185
+  saturation: 0.600897905882448
+  rhythmicContrast: 0.2426327089779079
+purpose: []
